@@ -1,0 +1,108 @@
+Great Learning Institute
+CSAI 701
+Advanced AI/ML Techniques for Real-World Applications
+
+Mode: Blended (Live Online Sessions + Self-Paced Modules)
+Duration: 12 Weeks (Tuesdays & Thursdays, 7:00 PM - 9:00 PM IST + self-paced weekend labs)
+Certification: Professional Certificate in Advanced AI/ML
+
+1. Instructor & Facilitator Information
+
+Lead Instructor: Dr. Anya Sharma (Ph.D. in AI, 15+ years industry experience at Google AI, NVIDIA)
+Email: anya.sharma@greatlearning.edu
+Office Hours/Q&A Sessions: Tuesdays & Thursdays, 7:00 PM - 8:00 PM IST (Online via Zoom). Additional doubt-clearing sessions may be scheduled based on participant feedback.
+Preferred Communication: Dedicated Slack channel #csai701-discussions for quick queries; email for administrative or personal matters. Expect responses within 24 business hours (Monday-Friday).
+Lab Facilitators: Ms. Priya Singh, Mr. Rahul Verma - Available during specific lab hours (Saturdays 10:00 AM - 12:00 PM IST) and on Slack.
+2. Course Overview & Philosophy
+
+This intensive skill enhancement program is designed for both aspiring and seasoned professionals, as well as advanced students, seeking to deepen their understanding and practical application of cutting-edge AI and Machine Learning techniques. Moving beyond theoretical fundamentals, this course focuses on the implementation, deployment, and operationalization of AI/ML solutions in real-world scenarios. Through a blend of expert-led lectures, hands-on coding labs, industry case studies, and a culminating capstone project, participants will gain the confidence and skills to tackle complex AI/ML challenges.
+
+Target Audience:
+
+Working Professionals: Data Scientists, ML Engineers, Software Developers, Analysts, and Managers looking to upskill, pivot into AI/ML roles, or integrate AI into their existing work. Previous participants include engineers from TCS, Infosys, and HCL.
+Advanced Students: Graduates and final-year undergraduates in Computer Science, Data Science, Engineering, or related fields seeking practical, industry-relevant AI/ML expertise.
+3. Learning Outcomes
+
+Upon successful completion of this course, participants will be able to:
+
+Design and implement advanced machine learning models (e.g., deep learning architectures, ensemble methods) for diverse problem sets.
+Apply techniques for data preprocessing, feature engineering, and model optimization in real-world, messy datasets.
+Understand and utilize MLOps principles for model deployment, monitoring, and version control.
+Evaluate and select appropriate AI/ML frameworks and tools for specific project requirements.
+Develop robust, scalable, and explainable AI solutions.
+Analyze and mitigate ethical biases and fairness issues in AI/ML systems.
+Lead or contribute effectively to AI/ML projects within an organizational context.
+4. Prerequisites
+
+Technical Proficiency:
+Strong foundational knowledge of Python programming (including libraries like NumPy, Pandas, Matplotlib).
+Basic understanding of statistics and linear algebra.
+Familiarity with foundational machine learning concepts (e.g., supervised/unsupervised learning, regression, classification).
+Recommended Background:
+Prior experience with a basic ML library (e.g., scikit-learn).
+Familiarity with command-line interface (CLI) and basic Git commands.
+Equipment: Reliable computer with internet access (min. 25 Mbps download), webcam, and microphone.
+5. Required Software & Platforms
+
+Python: Version 3.9+
+Key Libraries: TensorFlow 2.x / PyTorch 2.x, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit.
+Development Environment: Jupyter Notebooks (Anaconda distribution recommended) or Google Colab. VS Code with Python extensions is also supported.
+Collaboration: GitHub (for project version control and submission).
+Communication: Zoom (for live sessions), Slack (for module discussions and announcements).
+Learning Platform: Great Learning LMS Portal - for modules, assignments, lecture recordings, quizzes.
+Comprehensive installation guides and initial setup support will be provided during the orientation session.
+
+6. Course Structure & Schedule (Illustrative)
+
+This 12-week course is structured around weekly modules, including live sessions, self-paced learning, and practical labs.
+
+Week	Module Title	Live Session Focus (e.g., Tues/Thurs 7-9 PM IST)	Self-Paced Content	Lab/Assignment Due
+1	Foundations & Advanced Data Preprocessing	Review of ML Basics; Feature Engineering, Data Imputation	Data Cleaning Best Practices, Scaling Techniques	Lab 1: Data Prep (Due End of Week 1)
+2	Deep Learning Fundamentals with TensorFlow/PyTorch	Neural Network Architectures; Backpropagation, Optimizers	Activation Functions, Loss Functions, Gradient Descent	
+3	Convolutional Neural Networks (CNNs) for Vision	Image Classification, Transfer Learning, Object Detection Basics	CNN Architectures (ResNet, VGG), Data Augmentation	Assignment 1: Image Classification (Due End of Week 3)
+4	Recurrent Neural Networks (RNNs) for Sequences	NLP Basics, Word Embeddings, LSTMs, GRUs, Attention	Seq2Seq Models, Sentiment Analysis	
+5	Generative Models (GANs/VAEs)	Introduction to Generative Adversarial Networks, Image Generation	Variational Autoencoders, StyleGAN	Lab 2: Text Generation (Due End of Week 5)
+6	Reinforcement Learning Foundations	Markov Decision Processes; Q-Learning, SARSA, Bellman Eq.	Policy Gradients, Actor-Critic Methods	
+7	Model Optimization & Hyperparameter Tuning	Grid Search, Random Search, Bayesian Optimization, Pruning	Regularization, Ensemble Methods (Boosting, Bagging)	Assignment 2: Model Optimization (Due End of Week 7)
+8	MLOps: Deployment & Monitoring	Model Deployment Strategies (REST APIs, Flask/FastAPI, Docker)	Model Versioning, A/B Testing, Prometheus/Grafana	
+9	MLOps: Scalability & Pipelines	Orchestration Tools (e.g., Kubeflow, Apache Airflow)	Data Pipelines, Distributed Training, Cloud ML Services	
+10	Ethical AI, Explainable AI (XAI)	Bias Detection, Fairness Metrics, Interpretability Techniques	LIME, SHAP, Responsible AI Frameworks, Privacy	Lab 3: XAI Case Study (Due End of Week 10)
+11	Capstone Project Work & Mentoring	Dedicated project work & individual mentorship sessions (sign-up required)	Self-directed research and development	
+12	Capstone Project Presentations & Review	Peer and Instructor Feedback, Course Wrap-up	Final Project Report and Codebase Submission	Final Project Presentation (During Live Session)
+Detailed module breakdowns, specific readings, and additional resources will be provided on the Great Learning LMS Portal.
+
+7. Assessment & Certification Criteria
+
+This course emphasizes hands-on application and practical problem-solving. Your final assessment will be based on:
+
+Labs (3): 15% (5% each) - Practical coding exercises testing fundamental concepts.
+Assignments (3): 30% (10% each) - More complex problem-solving/implementation tasks, often involving larger datasets.
+Participation & Quizzes: 10% - Active engagement in live sessions, valuable contributions to Slack discussions, and short concept checks/quizzes.
+Capstone Project: 45% (Individual or Team-based, max 3 members) - A significant, self-chosen AI/ML project from concept to a demonstrable solution, showcasing learned skills. This includes:
+Project Proposal (5%) - Due End of Week 5
+Mid-Project Check-in & Presentation (10%) - Due End of Week 9
+Final Project Report (15%) - Due End of Week 12
+Final Project Presentation (15%) - During Week 12 Live Sessions
+Certification: A "Professional Certificate in Advanced AI/ML" will be awarded to participants who achieve an overall score of 60% or higher and successfully complete all required components (including Capstone Project submission and presentation).
+
+8. Course Policies
+
+Late Submissions: Deadlines are crucial for maintaining course pace. A 10% penalty per day will be applied for up to 3 days late. Submissions received more than 72 hours (3 days) after the stated deadline will not be accepted, except in documented cases of emergency (e.g., medical emergency with doctor's note) pre-approved by the instructor.
+Attendance (Live Sessions): While recordings will be available on the LMS within 24 hours, active participation in live sessions is highly encouraged for interactive Q&A, peer networking, and direct instructor feedback. Missing more than 3 live sessions without prior notice to the instructor may impact your participation grade.
+Collaboration & Academic Integrity: Collaboration on high-level ideas, debugging approaches, and general concepts is encouraged within our professional learning community. However, all submitted code, reports, and solutions for assignments and projects must be your original work. Sharing code directly, submitting work done by others, or using unauthorized AI tools for generating solutions will be considered a breach of academic integrity and will result in immediate disqualification from the course without refund. Such instances may also be reported to relevant professional bodies or academic institutions as per Great Learning Institute's policy.
+Technical Support: Dedicated technical support will be available via the #tech-support Slack channel and email (support@greatlearning.edu) for setup issues, platform navigation, and general software queries. Code-specific debugging help will be provided during dedicated lab hours and within the module-specific Slack channels.
+Refund Policy: For information regarding course withdrawal and refund eligibility, please refer to the Great Learning Institute's official Refund Policy available at www.greatlearning.edu/refund-policy or contact Admissions at admissions@greatlearning.edu.
+Professional Conduct: We foster a respectful, inclusive, and professional learning environment. All participants are expected to adhere to principles of courtesy, respect, and constructive engagement in all interactions, whether online or in person.
+9. Networking & Career Support
+
+Alumni Network: Gain access to our exclusive "Great Learning AI/ML Alumni" LinkedIn group for continued learning, professional connections, and job opportunities.
+Career Resources: Participate in optional, complimentary workshops on "Crafting Your AI/ML Resume & LinkedIn Profile" and "Navigating AI/ML Job Interviews."
+Industry Speakers: Benefit from periodic guest lectures by leading AI/ML practitioners and thought leaders from top companies.
+Project Showcase: Selected capstone projects will be showcased on the Great Learning website and social media.
+10. Contact & Support
+
+Course Content/Technical Queries: Use the relevant Slack channel (#csai701-discussions or #tech-support). For personal matters, email Dr. Anya Sharma (anya.sharma@greatlearning.edu).
+Administrative/Enrollment Queries: Contact the Admissions Team at admissions@greatlearning.edu or call +91-9876543210.
+Platform Issues: Contact IT Help Desk at support@greatlearning.edu.
+
+Give short and precise answer only dont give long answer and the cost of course is 80K inr.
